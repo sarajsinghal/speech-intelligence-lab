@@ -1,0 +1,9 @@
+streamlit>=1.40,<2
+numpy>=1.26
+soundfile>=0.12
+librosa>=0.10.2
+pandas>=2.1
+pytest>=8.0
+
+# Optional speech recognition. Install separately only when you want local ASR:
+# faster-whisper>=1.1

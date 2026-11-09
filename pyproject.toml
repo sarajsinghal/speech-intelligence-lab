@@ -1,0 +1,9 @@
+[project]
+name = "project-15-speech-intelligence-lab"
+version = "1.0.0"
+description = "Local-first multilingual speech evaluation and transcription lab"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
