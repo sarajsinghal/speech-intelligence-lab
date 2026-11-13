@@ -1,6 +1,8 @@
-# Project 15 — Speech Intelligence Lab
+# Speech Intelligence Lab
 
 A local-first app for inspecting audio and evaluating Hindi, English, and code-switched Hinglish transcripts. It includes transcript normalization, WER/CER, edit alignment, local audio preprocessing, optional CPU transcription with faster-whisper, timestamps from the ASR model, exports, and measured configuration latency.
+
+**Live app:** https://speech-intelligence-lab.streamlit.app/
 
 ## Deploying on Streamlit Community Cloud
 
